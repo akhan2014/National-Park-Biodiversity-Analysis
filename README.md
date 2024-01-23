@@ -1,12 +1,12 @@
-Biodiversity in National Parks: Species Observations and Conservation Analysis
+**Biodiversity in National Parks: Species Observations and Conservation Analysis**
 
-A. Introduction
+**A. Introduction**
 
 The "Biodiversity in National Parks: Species Observations and Conservation Analysis" project aims to harness the power of data analytics to uncover vital insights into the state of biodiversity in various national parks. By exploring a rich dataset that encapsulates species observations and conservation statuses, this project seeks to illuminate patterns and trends in species distribution, frequency of sightings, and conservation needs across different ecosystems.
 
-B. Goals & Objectives 
+**B. Goals & Objectives**
 
-Goals:
+**Goals:**
 
 1. Understanding Species Distribution: To analyze and visualize the distribution of various species across national parks, offering insights into the richness and diversity of park ecosystems.
 
@@ -18,7 +18,7 @@ Goals:
    
 5. Statistical Analysis: To employ statistical methods like the Chi-Squared Test and ANOVA to quantitatively assess the distribution of endangered species across parks and the differences in observations among species categories.
 
-Objectives:
+**Objectives:**
 
 1. To merge and clean datasets for a comprehensive and accurate analysis.
 2. To utilize a range of visualizations for an intuitive understanding of the data.
@@ -26,7 +26,7 @@ Objectives:
 4. To provide actionable insights for conservationists and park authorities.
 5. To contribute to the broader understanding of biodiversity in national parks, emphasizing the importance of conservation efforts.
 
-C. Data Description
+**C. Data Description**
 
 The dataset encompasses two key files:
 
@@ -34,7 +34,7 @@ The dataset encompasses two key files:
    
 2. species_info.csv: Provides details on each species, including its scientific name, category (e.g., Mammal, Bird), and conservation status.
 
-Key Data Attributes:
+**Key Data Attributes:**
 
 - Park Name: Identifier of the national park.
 - Scientific Name: The scientific designation of each species.
@@ -44,7 +44,7 @@ Key Data Attributes:
 
 The dataset presents a comprehensive view of various species, capturing a range of conservation statuses and observational data across different national parks.
 
-D. Methodology
+**D. Methodology**
 
 1. Data Cleaning
 - Checked for duplicates and missing values to ensure the integrity and quality of the data.
@@ -61,9 +61,9 @@ D. Methodology
 4. Visualization
 - Utilized a variety of plots (bar, box, pie charts) to visualize the data, aiding in understanding species distribution, conservation status, and observation frequency.
 
-E. Data Analysis
+**E. Data Analysis**
 
-###Analysis by Park###
+**###Analysis by Park###**
 
 The biodiversity within national parks is vast and varied. To delve into this richness, our analysis first focuses on observation counts across different parks, identifying which parks have higher instances of species observations, and thereby suggesting areas of high biodiversity and visitor interest.
 
@@ -101,7 +101,7 @@ This statistical test measured the deviation of observed frequencies of endanger
 The test results, including the Chi-Squared statistic and the p-value, provided a quantitative measure of these distributions, potentially reflecting different levels of conservation efforts across the parks.
 
 
-###Analysis By Category###
+**###Analysis By Category###**
 
 The diversity of species within national parks is a testament to the natural richness of these ecosystems. This segment of our study examines the variety of species across different biological categories and assesses the frequency of their observations.
 
@@ -126,7 +126,7 @@ The results of the ANOVA test, indicated by the F-Statistic and the p-value, sho
 In simpler terms, this means that some categories of species are observed more frequently than others in national parks. This finding is crucial for conservation efforts, as it points to the need for category-specific strategies to preserve the diverse range of species in these environments.
 
 
-###Analysis By Conservation Status###
+**###Analysis By Conservation Status###**
 
 In exploring the conservation status of species within national parks, our analysis focused on both the quantity and proportion of species under different conservation categories. This aspect of the study is critical in understanding the conservation priorities and challenges faced in these natural habitats.
 
@@ -143,7 +143,7 @@ The bar chart created for this analysis illustrates the number of species associ
 Complementing the bar chart, a pie chart was used to show the relative proportions of different conservation statuses. This chart provides a percentage-based view of the distribution, offering insights into which conservation statuses are most prevalent. It serves as a clear visual guide to understanding how many species fall into each status category in relation to the total, highlighting the areas where conservation efforts might be most needed.
 
 
-###Analysis By Species###
+**###Analysis By Species###**
 
 The final component of our biodiversity analysis focuses on individual species, examining their prevalence and conservation status across national parks. This analysis helps in pinpointing species that are either widely observed, suggesting abundance, or are rarely seen, indicating potential risks to their survival.
 
@@ -166,7 +166,7 @@ A focused analysis on endangered species allowed us to determine which of these 
 Conversely, we also identified the five endangered species with the fewest observations, which are depicted in a separate bar plot. These species are particularly important from a conservation standpoint, as their low observation rates could signal a higher risk of decline or extinction. This analysis directs attention to species that may require more focused conservation efforts to ensure their survival in natural habitats.
 
 
-F. Conclusion
+**F. Conclusion**
 
 Key Insights: 
 
@@ -180,7 +180,7 @@ Key Insights:
 
 5. Statistical Validation: Chi-Squared and ANOVA tests confirm that variations in species distribution and observation frequencies are statistically significant.
 
-Final Thoughts:
+**Final Thoughts:**
 
 Through the use of data-driven insights, this project contributes to a deeper understanding of biodiversity in national parks, offering valuable information for conservationists, park authorities, and wildlife enthusiasts. It also opens avenues for further research, particularly in areas where certain species are observed less frequently or where conservation statuses indicate a higher risk.
 
