@@ -103,4 +103,19 @@ In simpler terms, this means that some categories of species are observed more f
 
 ###Analysis By Conservation Status###
 
+In exploring the conservation status of species within national parks, our analysis focused on both the quantity and proportion of species under different conservation categories. This aspect of the study is critical in understanding the conservation priorities and challenges faced in these natural habitats.
+
+Species Count by Conservation Status:
+
+![Species Count by Conservation Status](./Visualizations/Species_Count_By_Conservation_Status.png)
+
+The bar chart created for this analysis illustrates the number of species associated with each conservation status. It reveals the distribution of conservation needs among species, highlighting the categories with the highest number of species facing potential threats. This visualization underscores the urgent need for conservation measures for certain categories more than others.
+
+Proportions of Conservation Statuses:
+
+![Proportions of Conservation Statuses](./Visualizations/Proportions_Of_Conservation_Statuses.png)
+
+Complementing the bar chart, a pie chart was used to show the relative proportions of different conservation statuses. This chart provides a percentage-based view of the distribution, offering insights into which conservation statuses are most prevalent. It serves as a clear visual guide to understanding how many species fall into each status category in relation to the total, highlighting the areas where conservation efforts might be most needed.
+
+
 ###Analysis By Species###
