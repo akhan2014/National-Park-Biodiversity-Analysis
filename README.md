@@ -105,13 +105,13 @@ In simpler terms, this means that some categories of species are observed more f
 
 In exploring the conservation status of species within national parks, our analysis focused on both the quantity and proportion of species under different conservation categories. This aspect of the study is critical in understanding the conservation priorities and challenges faced in these natural habitats.
 
-Species Count by Conservation Status:
+1. Species Count by Conservation Status:
 
 ![Species Count by Conservation Status](./Visualizations/Species_Count_By_Conservation_Status.png)
 
 The bar chart created for this analysis illustrates the number of species associated with each conservation status. It reveals the distribution of conservation needs among species, highlighting the categories with the highest number of species facing potential threats. This visualization underscores the urgent need for conservation measures for certain categories more than others.
 
-Proportions of Conservation Statuses:
+2. Proportions of Conservation Statuses:
 
 ![Proportions of Conservation Statuses](./Visualizations/Proportions_Of_Conservation_Statuses.png)
 
@@ -119,3 +119,23 @@ Complementing the bar chart, a pie chart was used to show the relative proportio
 
 
 ###Analysis By Species###
+
+The final component of our biodiversity analysis focuses on individual species, examining their prevalence and conservation status across national parks. This analysis helps in pinpointing species that are either widely observed, suggesting abundance, or are rarely seen, indicating potential risks to their survival.
+
+1. Top 10 Most Observed Species Overall:
+
+![Top 10 Most Observed Species Overall](./Visualizations/Top_10_Most_Observed.png)
+
+By aggregating and ranking species based on total observations across all parks, we identified the top 10 most frequently observed species. The bar plot for this analysis reveals which species are most common in the parks, potentially indicating their abundance or wide distribution. This insight is crucial for understanding which species are thriving in these protected areas.
+
+2. Top 10 Most Observed Endangered Species:
+
+![Top 10 Most Observed Endangered Species](./Visualizations/Top_10_Most_Endangered.png)
+
+A focused analysis on endangered species allowed us to determine which of these species are most commonly observed. This data, visualized through a bar plot, highlights the top 10 endangered species that are most frequently encountered in the parks. These observations can be indicative of the success of conservation efforts or areas where these species find a suitable habitat.
+
+3. 5 Rarest Endangered Species Across Parks:
+
+![5 Rarest Endangered Species Across Parks](./Visualizations/5_Rarest_Endangered_Species.png)
+
+Conversely, we also identified the five endangered species with the fewest observations, which are depicted in a separate bar plot. These species are particularly important from a conservation standpoint, as their low observation rates could signal a higher risk of decline or extinction. This analysis directs attention to species that may require more focused conservation efforts to ensure their survival in natural habitats.
