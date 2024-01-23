@@ -46,10 +46,18 @@ The biodiversity within national parks is vast and varied. To delve into this ri
 
 Observation Counts by Park: We aggregated the total number of species observations for each park to determine which parks are most frequented by different species. The horizontal bar chart created from this data visually emphasizes the disparities between the parks, highlighting which parks may offer more robust habitats for wildlife or perhaps better opportunities for observation by visitors.
 
+![Most Observed Species In Each Park](./Visualizations/Most_Observed_Species_In_Each_Park.png)
+
 Most Observed Species in Each Park: By grouping the data by park and species, and summing the observations, we pinpointed the most observed species in each park. A bar chart was then used to illustrate these species, offering insights into which species might be emblematic or particularly abundant in each park. This analysis not only draws attention to these species but may also raise questions about their habitat conditions and the factors contributing to their high observation rates.
 
-Observations per Park for Different Species Categories: A boxplot visualization was employed to display how observations are distributed among different species categories across the parks. This comparison provided a multi-faceted view of the parks' biodiversity, shedding light on the presence and visibility of various species categories such as mammals, birds, reptiles, etc., within each park.
+![Observations Per Park For Different Species Categories](./Visualizations/Observations_Per_Park_For_Different_Species_Categories.png)
 
-Analysis of Endangered Species Observations in Each Park: Focusing on conservation, we analyzed the observations of endangered species, differentiating them by conservation status. The resulting bar chart serves as a stark visual reminder of the conservation challenges and efforts within these parks, indicating which parks report more frequent observations of species that are of concern, threatened, or endangered.
+Observations Per Park For Different Species Categories: A boxplot visualization was employed to display how observations are distributed among different species categories across the parks. This comparison provided a multi-faceted view of the parks' biodiversity, shedding light on the presence and visibility of various species categories such as mammals, birds, reptiles, etc., within each park.
 
-Statistical Analysis - Chi-Squared Test: To understand the distribution of endangered species across parks and whether certain parks are more favorable to the survival of these species, we performed a Chi-Squared test. This statistical test measured the deviation of observed frequencies of endangered species from what would be expected if the species were distributed uniformly across the parks. The test results, including the Chi-Squared statistic and the p-value, provided a quantitative measure of these distributions, potentially reflecting different levels of conservation efforts across the parks.
+![Endangered Species Observations In Each Park](./Visualizations/Endangered_Species_Observations_In_Each_Park.png)
+
+Endangered Species Observations in Each Park: Focusing on conservation, we analyzed the observations of endangered species, differentiating them by conservation status. The resulting bar chart serves as a stark visual reminder of the conservation challenges and efforts within these parks, indicating which parks report more frequent observations of species that are of concern, threatened, or endangered.
+
+Statistical Analysis - 
+
+Chi-Squared Test: To understand the distribution of endangered species across parks and whether certain parks are more favorable to the survival of these species, we performed a Chi-Squared test. This statistical test measured the deviation of observed frequencies of endangered species from what would be expected if the species were distributed uniformly across the parks. The test results, including the Chi-Squared statistic and the p-value, provided a quantitative measure of these distributions, potentially reflecting different levels of conservation efforts across the parks.
