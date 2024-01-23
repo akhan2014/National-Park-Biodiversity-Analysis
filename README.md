@@ -42,7 +42,7 @@ D. Analysis
 
 The biodiversity within national parks is vast and varied. To delve into this richness, our analysis first focuses on observation counts across different parks, identifying which parks have higher instances of species observations, and thereby suggesting areas of high biodiversity and visitor interest.
 
-![Observation Counts By Park]([http://url/to/img.png](https://github.com/akhan2014/National_Park_Biodiversity_Analysis/blob/12334a737d43d2123852cab3fb78ec3bf399584f/Visualizations/Observation%20Counts%20By%20Park.png))
+![Observation Counts By Park](./Visualizations/Observation_Counts_By_Park.png)
 
 Observation Counts by Park: We aggregated the total number of species observations for each park to determine which parks are most frequented by different species. The horizontal bar chart created from this data visually emphasizes the disparities between the parks, highlighting which parks may offer more robust habitats for wildlife or perhaps better opportunities for observation by visitors.
 
